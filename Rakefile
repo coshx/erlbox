@@ -26,9 +26,9 @@ begin
   Jeweler::Tasks.new do |s|
     s.name         = 'erlbox'
     s.platform     = Gem::Platform::RUBY
-    s.author       = 'Phillip Toland'
-    s.email        = 'phil.toland@gmail.com'
-    s.homepage     = 'http://github.com/toland/erlbox'
+    s.author       = 'Ben Taitelbaum'
+    s.email        = 'btaitelb@gmail.com'
+    s.homepage     = 'http://github.com/coshx/erlbox'
     s.summary      = 'Erlang Toolbox'
     s.description  = 'Rake tasks and helper scripts for building Erlang applications.'
     s.require_path = 'lib'
